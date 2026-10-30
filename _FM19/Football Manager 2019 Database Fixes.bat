@@ -1,5 +1,5 @@
 @echo off
-set databasepath=D:\Jogos\Steam\steamapps\common\Football Manager 2019\data\database\db
+set databasepath=E:\Gaming\Steam\steamapps\common\Football Manager 2019\data\database\db
 
 echo Football Manager 2019 Database Fixes
 echo Removes files from FM2019 installation folder that change original names and colors because of licensing issues
