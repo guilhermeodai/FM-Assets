@@ -1,0 +1,96 @@
+<record>
+	<!-- resource manager options -->
+
+	<!-- don't preload anything in this folder -->
+	<boolean id="preload" value="false"/>
+
+	<!-- turn off auto mapping -->
+	<boolean id="amap" value="false"/>
+
+	<!-- picture mappings -->
+	<!-- the following XML maps pictures inside this folder into other positions
+		in the resource system, which allows this folder to be dropped into any
+		place in the graphics folder and still have the game pick up the graphics
+		files from the correct places
+	-->
+
+	<list id="maps">
+		<record from="448" to="graphics/pictures/club/448/logo"/>
+		<record from="449" to="graphics/pictures/club/449/logo"/>
+		<record from="450" to="graphics/pictures/club/450/logo"/>
+		<record from="451" to="graphics/pictures/club/451/logo"/>
+		<record from="452" to="graphics/pictures/club/452/logo"/>
+		<record from="453" to="graphics/pictures/club/453/logo"/>
+		<record from="455" to="graphics/pictures/club/455/logo"/>
+		<record from="456" to="graphics/pictures/club/456/logo"/>
+		<record from="457" to="graphics/pictures/club/457/logo"/>
+		<record from="458" to="graphics/pictures/club/458/logo"/>
+		<record from="459" to="graphics/pictures/club/459/logo"/>
+		<record from="460" to="graphics/pictures/club/460/logo"/>
+		<record from="461" to="graphics/pictures/club/461/logo"/>
+		<record from="462" to="graphics/pictures/club/462/logo"/>
+		<record from="138179" to="graphics/pictures/club/138179/logo"/>
+		<record from="138180" to="graphics/pictures/club/138180/logo"/>
+		<record from="138181" to="graphics/pictures/club/138181/logo"/>
+		<record from="138182" to="graphics/pictures/club/138182/logo"/>
+		<record from="138183" to="graphics/pictures/club/138183/logo"/>
+		<record from="149274" to="graphics/pictures/club/149274/logo"/>
+		<record from="149275" to="graphics/pictures/club/149275/logo"/>
+		<record from="149276" to="graphics/pictures/club/149276/logo"/>
+		<record from="149277" to="graphics/pictures/club/149277/logo"/>
+		<record from="149278" to="graphics/pictures/club/149278/logo"/>
+		<record from="149279" to="graphics/pictures/club/149279/logo"/>
+		<record from="149280" to="graphics/pictures/club/149280/logo"/>
+		<record from="149281" to="graphics/pictures/club/149281/logo"/>
+		<record from="150842" to="graphics/pictures/club/150842/logo"/>
+		<record from="694450" to="graphics/pictures/club/694450/logo"/>
+		<record from="694451" to="graphics/pictures/club/694451/logo"/>
+		<record from="694452" to="graphics/pictures/club/694452/logo"/>
+		<record from="1300266" to="graphics/pictures/club/1300266/logo"/>
+		<record from="1300268" to="graphics/pictures/club/1300268/logo"/>
+		<record from="1300269" to="graphics/pictures/club/1300269/logo"/>
+		<record from="1300271" to="graphics/pictures/club/1300271/logo"/>
+		<record from="1602233" to="graphics/pictures/club/1602233/logo"/>
+		<record from="1602234" to="graphics/pictures/club/1602234/logo"/>
+		<record from="26001397" to="graphics/pictures/club/26001397/logo"/>
+		<record from="26001591" to="graphics/pictures/club/26001591/logo"/>
+		<record from="26001603" to="graphics/pictures/club/26001603/logo"/>
+		<record from="26001609" to="graphics/pictures/club/26001609/logo"/>
+		<record from="26001615" to="graphics/pictures/club/26001615/logo"/>
+		<record from="26001619" to="graphics/pictures/club/26001619/logo"/>
+		<record from="26001623" to="graphics/pictures/club/26001623/logo"/>
+		<record from="26001627" to="graphics/pictures/club/26001627/logo"/>
+		<record from="26001633" to="graphics/pictures/club/26001633/logo"/>
+		<record from="26001638" to="graphics/pictures/club/26001638/logo"/>
+		<record from="26001648" to="graphics/pictures/club/26001648/logo"/>
+		<record from="26001649" to="graphics/pictures/club/26001649/logo"/>
+		<record from="26005432" to="graphics/pictures/club/26005432/logo"/>
+		<record from="26005456" to="graphics/pictures/club/26005456/logo"/>
+		<record from="26005468" to="graphics/pictures/club/26005468/logo"/>
+		<record from="26014949" to="graphics/pictures/club/26014949/logo"/>
+		<record from="26014954" to="graphics/pictures/club/26014954/logo"/>
+		<record from="26016908" to="graphics/pictures/club/26016908/logo"/>
+		<record from="26030981" to="graphics/pictures/club/26030981/logo"/>
+		<record from="26031118" to="graphics/pictures/club/26031118/logo"/>
+		<record from="26031742" to="graphics/pictures/club/26031742/logo"/>
+		<record from="26031758" to="graphics/pictures/club/26031758/logo"/>
+		<record from="26035636" to="graphics/pictures/club/26035636/logo"/>
+		<record from="26035650" to="graphics/pictures/club/26035650/logo"/>
+		<record from="26035664" to="graphics/pictures/club/26035664/logo"/>
+		<record from="26036766" to="graphics/pictures/club/26036766/logo"/>
+		<record from="26036777" to="graphics/pictures/club/26036777/logo"/>
+		<record from="26036788" to="graphics/pictures/club/26036788/logo"/>
+		<record from="26036802" to="graphics/pictures/club/26036802/logo"/>
+		<record from="26036815" to="graphics/pictures/club/26036815/logo"/>
+		<record from="26036828" to="graphics/pictures/club/26036828/logo"/>
+		<record from="26036842" to="graphics/pictures/club/26036842/logo"/>
+		<record from="26038566" to="graphics/pictures/club/26038566/logo"/>
+		<record from="26038570" to="graphics/pictures/club/26038570/logo"/>
+		<record from="26038572" to="graphics/pictures/club/26038572/logo"/>
+		<record from="2000106823" to="graphics/pictures/club/2000106823/logo"/>
+		<record from="2000106825" to="graphics/pictures/club/2000106825/logo"/>
+		<record from="2000188262" to="graphics/pictures/club/2000188262/logo"/>
+		<record from="2000261874" to="graphics/pictures/club/2000261874/logo"/>
+		<record from="2000261918" to="graphics/pictures/club/2000261918/logo"/>
+	</list>
+</record>
